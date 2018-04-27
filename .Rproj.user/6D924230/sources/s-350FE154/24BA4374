@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1524804323793.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "24BA4374",
-    "lastKnownWriteTime" : 1524804845,
-    "last_content_update" : 1524805452898,
+    "lastKnownWriteTime" : 1524806161,
+    "last_content_update" : 1524806161745,
     "path" : "~/Desktop/dieroller/README.Rmd",
     "project_path" : "README.Rmd",
     "properties" : {
-        "cursorPosition" : "25,33",
-        "scrollLine" : "17"
+        "cursorPosition" : "63,32",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
