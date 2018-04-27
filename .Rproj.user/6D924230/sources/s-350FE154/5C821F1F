@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524804955642.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5C821F1F",
+    "lastKnownWriteTime" : 1524805364,
+    "last_content_update" : 1524805364851,
+    "path" : "~/Desktop/dieroller/R/plot-roll.R",
+    "project_path" : "R/plot-roll.R",
+    "properties" : {
+        "cursorPosition" : "12,23",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
